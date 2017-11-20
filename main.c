@@ -1,2 +1,2 @@
 int b;
-hello
+int c;
